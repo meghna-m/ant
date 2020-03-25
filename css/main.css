@@ -1,3 +1,11 @@
+/* Color Palette */
+
+$softPink: #F9D8D4;
+$yellow: #F9A734;
+$DarkYellow: #FB8B24;
+$green: #36964C;
+$DarkGreen: #286E38;
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -34,13 +42,6 @@ body {
 	animation: animatedBackground .5s cubic-bezier(.61,-0.64,.58,1.46) forwards;
 }
 
-/* Color Palette */
-
-$softPink: #F9D8D4;
-$yellow: #F9A734;
-$DarkYellow: #FB8B24;
-$green: #36964C;
-$DarkGreen: #286E38;
 
 /* Animation */
 
